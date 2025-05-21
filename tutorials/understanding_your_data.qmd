@@ -1,6 +1,0 @@
----
-title: "understanding_your_data"
-author: "Sang B. Mendy"
-format: html
-editor: visual
----

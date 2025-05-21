@@ -1,7 +1,0 @@
----
-title: "Loading Data into R"
-author: "Sang B. Mendy"
-format: html
-editor: visual
----
-
